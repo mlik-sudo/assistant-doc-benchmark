@@ -1,0 +1,19 @@
+# Résultats de tests (à ne pas commiter pour l'instant)
+resultats/**/*.md
+
+# Mais garder la structure des dossiers
+!resultats/phase1/.gitkeep
+!resultats/phase-cli/.gitkeep
+!resultats/phase2/.gitkeep
+!resultats/phase3/.gitkeep
+
+# Node modules si nécessaire
+node_modules/
+
+# Fichiers système
+.DS_Store
+*.log
+
+# Fichiers temporaires
+/tmp/
+*.tmp
