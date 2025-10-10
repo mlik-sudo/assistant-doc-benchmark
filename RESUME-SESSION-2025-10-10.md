@@ -212,12 +212,6 @@ codex-agent http https://example.com  # ✅
 codex-agent --version                 # ✅
 ```
 
-### Variables Importantes
-```bash
-export GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
-export OPENAI_API_KEY="YOUR_OPENAI_API_KEY_HERE"
-```
-
 ---
 
 ## ⚠️ Points d'Attention
