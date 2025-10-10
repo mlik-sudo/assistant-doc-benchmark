@@ -75,8 +75,8 @@ prod     : ≤320 lignes, ≤90 min (audit/sécurité)
 **Prompt identique :** "Computer Use Gemini setup complet"
 
 **Fichiers générés :**
-- v2 : `/Users/sahebmlik/Desktop/package_gemini_computer_use.xml` (365 lignes, XML)
-- v3.1 : `/Users/sahebmlik/Desktop/package_documentation_gemini_computer_use_api_computer_use_2.md` (371 lignes, Markdown)
+- v2 : `~/Desktop/package_gemini_computer_use.xml` (365 lignes, XML)
+- v3.1 : `~/Desktop/package_documentation_gemini_computer_use_api_computer_use_2.md` (371 lignes, Markdown)
 
 #### Résultats Quantitatifs (Claude Code)
 
