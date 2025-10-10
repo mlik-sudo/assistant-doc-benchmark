@@ -214,8 +214,8 @@ codex-agent --version                 # ✅
 
 ### Variables Importantes
 ```bash
-export GEMINI_API_KEY="***REMOVED_API_KEY***"
-export OPENAI_API_KEY="sk-proj-..."
+export GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
+export OPENAI_API_KEY="YOUR_OPENAI_API_KEY_HERE"
 ```
 
 ---
