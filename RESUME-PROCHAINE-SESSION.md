@@ -32,8 +32,8 @@
   - Versions SDK plus récentes (1.42.0 vs 1.41.0)
   - Consensus 3 IA (ChatGPT-5, Gemini Pro, Claude)
 - Fichiers générés :
-  - v2 : `/Users/sahebmlik/Desktop/package_gemini_computer_use.xml`
-  - v3.1 : `/Users/sahebmlik/Desktop/package_documentation_gemini_computer_use_api_computer_use_2.md`
+  - v2 : `~/Desktop/package_gemini_computer_use.xml`
+  - v3.1 : `~/Desktop/package_documentation_gemini_computer_use_api_computer_use_2.md`
 - Résumé : `session-2025-10-09-v2-vs-v3.md`
 
 ---
@@ -55,7 +55,7 @@
 
 1. **Avec v2 (instructions XML) :**
    - Aller sur ChatGPT-5 High Thinking (web)
-   - Donner instructions v2 : `/Users/sahebmlik/Documents/assistant-doc-benchmark/instructions-assistant-v2.md`
+  - Donner instructions v2 : `~/Documents/assistant-doc-benchmark/instructions-assistant-v2.md`
    - Tâche : "Fais une recherche documentaire et conçois un Agent Codex CLI Medium Thinking comme assistant pour Claude Code"
    - Sauvegarder résultat → **Conception Agent A**
 
@@ -143,7 +143,7 @@ Cette réponse déterminera :
 
 **Environnement :**
 - macOS (Darwin 25.0.0)
-- Repo local : `/Users/sahebmlik/Documents/assistant-doc-benchmark`
+- Repo local : `~/Documents/assistant-doc-benchmark`
 - Branch : `fix-cli-014-transport-key` → main
 
 **Outils :**

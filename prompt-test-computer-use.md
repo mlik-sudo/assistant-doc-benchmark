@@ -19,7 +19,7 @@ Prépare un **package documentation complet** pour la tâche suivante :
 **INFORMATIONS FOURNIES** :
 
 1. **Gemini CLI** est un outil existant qui utilise déjà l'API Gemini
-   - Localisation : `/Users/sahebmlik/cli-agents-optimization/gemini-cli/`
+   - Localisation : `~/cli-agents-optimization/gemini-cli/`
    - Config actuelle : `.gemini/settings.json`
    - Il a déjà des MCPs installés (Chrome DevTools notamment)
 
